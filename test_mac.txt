@@ -1,0 +1,8 @@
+VLAN 1: 25 MAC addresses
+VLAN 200: 1355 MAC addresses
+VLAN 995: 6 MAC addresses
+VLAN 20: 10 MAC addresses
+VLAN 79: 5 MAC addresses
+VLAN 256: 34 MAC addresses
+VLAN 336: 2 MAC addresses
+VLAN 254: 3 MAC addresses
